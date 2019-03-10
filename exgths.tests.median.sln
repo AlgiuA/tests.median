@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exgths.tests.median", "exgths.tests.median\exgths.tests.median.csproj", "{29DDAA94-D823-45A5-AE6F-8DD3B57E6F9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exgths.tests.median.test", "exgths.tests.median.test\exgths.tests.median.test.csproj", "{CA99CDF6-5FD9-4879-A6DD-C2F6572C89EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29DDAA94-D823-45A5-AE6F-8DD3B57E6F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29DDAA94-D823-45A5-AE6F-8DD3B57E6F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29DDAA94-D823-45A5-AE6F-8DD3B57E6F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA99CDF6-5FD9-4879-A6DD-C2F6572C89EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA99CDF6-5FD9-4879-A6DD-C2F6572C89EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA99CDF6-5FD9-4879-A6DD-C2F6572C89EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA99CDF6-5FD9-4879-A6DD-C2F6572C89EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
