@@ -8,4 +8,4 @@ For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth 
 
 The purpose of this exercise is to implement the algorithm that computes the median for an integer array and the associated unit tests.
 
-Feel free to modify everything (assembly names and structure, class names, method names, code organization, etc.).
+Feel free to modify everything (assembly names and structure, class names, method names, code organization, etc.) so that we get a feeling on how you code
